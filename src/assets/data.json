@@ -1,0 +1,14 @@
+[
+    {
+      "type": "fruit",
+      "names": ["Apple", "Avocado", "Banana", "Blackberry", "Blueberry", "Cherry", "Coconut", "Grape", "Guava"]
+    },
+    {
+      "type": "flower",
+      "names": ["Jasmine", "Lotus", "Palash", "Lilium candidum", "Red Vanda", "dahlia", "daisy", "marigold", "sunflower", "orchid"]
+    },
+    {
+      "type": "country",
+      "names": ["India", "Australia", "US", "UK", "Srilanka", "Italy", "New Zeland", "marigold", "France", "Brazil"]
+    }
+]

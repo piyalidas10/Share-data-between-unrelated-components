@@ -1,0 +1,5 @@
+<div class="form-check" *ngFor="let dt of data; let i = index;">
+    <label class="form-check-label" for="{{dt.type}}">
+        <input type="checkbox" class="form-check-input" id="{{dt.type}}" name="{{dt.type}}" value="{{dt.type}}" (change)="changeByType($event,i)">{{dt.type}}
+    </label>
+</div>
